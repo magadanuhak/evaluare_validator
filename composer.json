@@ -1,0 +1,8 @@
+{
+    "name": "danie/ok",
+    "description": "dsdsa",
+    "type": "project",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
